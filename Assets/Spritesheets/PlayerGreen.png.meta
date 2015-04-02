@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 0350e08b72ec5db4aa10207dab161275
+timeCreated: 1427950759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerGreen_0
+    21300002: PlayerGreen_1
+    21300004: PlayerGreen_2
+    21300006: PlayerGreen_3
+    21300008: PlayerGreen_4
+    21300010: PlayerGreen_5
+    21300012: PlayerGreen_6
+    21300014: PlayerGreen_7
+    21300016: PlayerGreen_8
+    21300018: PlayerGreen_9
+    21300020: PlayerGreen_10
+    21300022: PlayerGreen_11
+    21300024: PlayerGreen_12
+    21300026: PlayerGreen_13
+    21300028: PlayerGreen_14
+    21300030: PlayerGreen_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerGreen_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 518
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 518
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 518
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 518
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 518
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 518
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 260
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 260
+        width: 108
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 260
+        width: 108
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 260
+        width: 107
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 260
+        width: 107
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 110
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 111
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 108
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerGreen_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

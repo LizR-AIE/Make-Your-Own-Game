@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: PlayerGreen.png (784 x 776)
+# $TexturePacker:SmartUpdate:2919951dc405f1390515edf219550dee:3cb3a76ba8b8aed8e71526b0e52ccd24:6655d025f714ef112519f8437990bacb$
+#
+
+alienGreen_climb1;2;518;128;256;0.5;0.5
+alienGreen_climb2;132;518;128;256;0.5;0.5
+alienGreen_duck1;262;518;128;256;0.5;0.5
+alienGreen_duck2;392;518;128;256;0.5;0.5
+alienGreen_front1;522;518;128;256;0.5;0.5
+alienGreen_front2;652;518;128;256;0.5;0.5
+alienGreen_hit1;2;260;128;256;0.5;0.5
+alienGreen_hit2;132;260;128;256;0.5;0.5
+alienGreen_jump1;262;260;128;256;0.5;0.5
+alienGreen_jump2;392;260;128;256;0.5;0.5
+alienGreen_stand1;522;260;128;256;0.5;0.5
+alienGreen_stand2;652;260;128;256;0.5;0.5
+alienGreen_swim1;2;2;128;256;0.5;0.5
+alienGreen_swim2;132;2;128;256;0.5;0.5
+alienGreen_walk1;262;2;128;256;0.5;0.5
+alienGreen_walk2;392;2;128;256;0.5;0.5
