@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 819357a771ffdfa48ae591c03e540baa
-timeCreated: 1427947006
+timeCreated: 1427965905
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -166,7 +166,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_1
       rect:
@@ -176,7 +176,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_2
       rect:
@@ -186,7 +186,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_3
       rect:
@@ -196,7 +196,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_4
       rect:
@@ -206,27 +206,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_5
       rect:
         serializedVersion: 2
         x: 640
-        y: 1920
+        y: 1974
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_6
       rect:
         serializedVersion: 2
         x: 768
-        y: 1920
+        y: 1974
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_7
       rect:
@@ -236,7 +236,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_8
       rect:
@@ -246,7 +246,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_9
       rect:
@@ -256,7 +256,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_10
       rect:
@@ -266,7 +266,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_11
       rect:
@@ -276,7 +276,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_12
       rect:
@@ -286,17 +286,17 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_13
       rect:
         serializedVersion: 2
         x: 768
-        y: 1792
+        y: 1846
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_14
       rect:
@@ -306,7 +306,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_15
       rect:
@@ -316,7 +316,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_16
       rect:
@@ -326,7 +326,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_17
       rect:
@@ -336,7 +336,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_18
       rect:
@@ -346,7 +346,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_19
       rect:
@@ -356,17 +356,17 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_20
       rect:
         serializedVersion: 2
         x: 768
-        y: 1664
+        y: 1718
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_21
       rect:
@@ -376,7 +376,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_22
       rect:
@@ -386,7 +386,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_23
       rect:
@@ -396,7 +396,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_24
       rect:
@@ -406,7 +406,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_25
       rect:
@@ -416,7 +416,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_26
       rect:
@@ -426,7 +426,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_27
       rect:
@@ -436,7 +436,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_28
       rect:
@@ -446,7 +446,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_29
       rect:
@@ -456,7 +456,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_30
       rect:
@@ -466,7 +466,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_31
       rect:
@@ -476,7 +476,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_32
       rect:
@@ -486,7 +486,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_33
       rect:
@@ -496,7 +496,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_34
       rect:
@@ -506,17 +506,17 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_35
       rect:
         serializedVersion: 2
         x: 0
-        y: 1280
+        y: 1334
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_36
       rect:
@@ -526,7 +526,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_37
       rect:
@@ -536,7 +536,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_38
       rect:
@@ -546,7 +546,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_39
       rect:
@@ -556,7 +556,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_40
       rect:
@@ -566,7 +566,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_41
       rect:
@@ -576,17 +576,17 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_42
       rect:
         serializedVersion: 2
         x: 0
-        y: 1152
+        y: 1206
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_43
       rect:
@@ -596,7 +596,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_44
       rect:
@@ -606,7 +606,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_45
       rect:
@@ -616,7 +616,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_46
       rect:
@@ -626,7 +626,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_47
       rect:
@@ -636,7 +636,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_48
       rect:
@@ -646,17 +646,17 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_49
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
+        y: 1078
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_50
       rect:
@@ -666,7 +666,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_51
       rect:
@@ -676,7 +676,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_52
       rect:
@@ -686,7 +686,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_53
       rect:
@@ -696,7 +696,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_54
       rect:
@@ -706,7 +706,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_55
       rect:
@@ -716,27 +716,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_56
       rect:
         serializedVersion: 2
         x: 0
-        y: 896
+        y: 950
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_57
       rect:
         serializedVersion: 2
         x: 128
-        y: 896
+        y: 950
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_58
       rect:
@@ -746,7 +746,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_59
       rect:
@@ -756,7 +756,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_60
       rect:
@@ -766,7 +766,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_61
       rect:
@@ -776,7 +776,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_62
       rect:
@@ -786,7 +786,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_63
       rect:
@@ -796,27 +796,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_64
       rect:
         serializedVersion: 2
         x: 128
-        y: 768
+        y: 822
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_65
       rect:
         serializedVersion: 2
         x: 256
-        y: 768
+        y: 822
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_66
       rect:
@@ -826,7 +826,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_67
       rect:
@@ -836,7 +836,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_68
       rect:
@@ -846,7 +846,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_69
       rect:
@@ -856,7 +856,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_70
       rect:
@@ -866,27 +866,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_71
       rect:
         serializedVersion: 2
         x: 128
-        y: 640
+        y: 694
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_72
       rect:
         serializedVersion: 2
         x: 256
-        y: 640
+        y: 694
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_73
       rect:
@@ -896,7 +896,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_74
       rect:
@@ -906,7 +906,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_75
       rect:
@@ -916,7 +916,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_76
       rect:
@@ -926,7 +926,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_77
       rect:
@@ -936,7 +936,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_78
       rect:
@@ -946,27 +946,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_79
       rect:
         serializedVersion: 2
         x: 256
-        y: 512
+        y: 567
         width: 128
-        height: 128
+        height: 73
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_80
       rect:
         serializedVersion: 2
         x: 384
-        y: 512
+        y: 567
         width: 128
-        height: 128
+        height: 73
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_81
       rect:
@@ -976,7 +976,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_82
       rect:
@@ -986,7 +986,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_83
       rect:
@@ -996,7 +996,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_84
       rect:
@@ -1006,7 +1006,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_85
       rect:
@@ -1016,27 +1016,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_86
       rect:
         serializedVersion: 2
         x: 256
-        y: 384
+        y: 439
         width: 128
-        height: 128
+        height: 73
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_87
       rect:
         serializedVersion: 2
         x: 384
-        y: 384
+        y: 439
         width: 128
-        height: 128
+        height: 73
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_88
       rect:
@@ -1046,7 +1046,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_89
       rect:
@@ -1056,17 +1056,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: spritesheet_ground_90
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 384
-        width: 128
-        height: 128
-      alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_91
       rect:
@@ -1076,7 +1066,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_92
       rect:
@@ -1086,7 +1076,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_93
       rect:
@@ -1096,27 +1086,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_94
       rect:
         serializedVersion: 2
         x: 384
-        y: 256
+        y: 310
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_95
       rect:
         serializedVersion: 2
         x: 512
-        y: 256
+        y: 310
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_96
       rect:
@@ -1126,7 +1116,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_97
       rect:
@@ -1136,7 +1126,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_98
       rect:
@@ -1146,7 +1136,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_99
       rect:
@@ -1156,27 +1146,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_100
       rect:
         serializedVersion: 2
         x: 384
-        y: 128
+        y: 182
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_101
       rect:
         serializedVersion: 2
         x: 512
-        y: 128
+        y: 182
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_102
       rect:
@@ -1186,7 +1176,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_103
       rect:
@@ -1196,7 +1186,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_104
       rect:
@@ -1206,7 +1196,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_105
       rect:
@@ -1216,7 +1206,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_106
       rect:
@@ -1226,27 +1216,27 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_107
       rect:
         serializedVersion: 2
         x: 512
-        y: 0
+        y: 54
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spritesheet_ground_108
       rect:
         serializedVersion: 2
         x: 640
-        y: 0
+        y: 54
         width: 128
-        height: 128
+        height: 74
       alignment: 7
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
