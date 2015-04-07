@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="MarioTileSet" tilewidth="32" tileheight="32">
+  <image source="MarioTileSet.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAeWMvMwLAOiNczo4rLMCEwLcwfaJAC9FcqDkwMoMRfm5nx82kFiLGXFvE1mP07GOwlN5+h59Gh4l9iwWpGBoY1QLyWEbv8ZWb8fGRQxYSK8cmdBtp3BojPMmLKEdJPCXgNtO8NEL/F4V9aAUrtXQL099IBwACZbz12
+  </data>
+ </layer>
+</map>
