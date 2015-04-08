@@ -1,0 +1,1254 @@
+fileFormatVersion: 2
+guid: 0a4d429920657b743a61960ddeed8d91
+timeCreated: 1427949110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bgElements_spritesheet_0
+    21300002: bgElements_spritesheet_2
+    21300004: bgElements_spritesheet_4
+    21300006: bgElements_spritesheet_5
+    21300008: bgElements_spritesheet_6
+    21300010: bgElements_spritesheet_8
+    21300012: bgElements_spritesheet_9
+    21300014: bgElements_spritesheet_10
+    21300016: bgElements_spritesheet_11
+    21300018: bgElements_spritesheet_12
+    21300020: bgElements_spritesheet_13
+    21300022: bgElements_spritesheet_14
+    21300024: bgElements_spritesheet_15
+    21300026: bgElements_spritesheet_16
+    21300028: bgElements_spritesheet_19
+    21300030: bgElements_spritesheet_20
+    21300032: bgElements_spritesheet_21
+    21300034: bgElements_spritesheet_22
+    21300036: bgElements_spritesheet_23
+    21300038: bgElements_spritesheet_24
+    21300040: bgElements_spritesheet_25
+    21300042: bgElements_spritesheet_26
+    21300044: bgElements_spritesheet_27
+    21300046: bgElements_spritesheet_28
+    21300048: bgElements_spritesheet_29
+    21300050: bgElements_spritesheet_30
+    21300052: bgElements_spritesheet_31
+    21300054: bgElements_spritesheet_32
+    21300056: bgElements_spritesheet_33
+    21300058: bgElements_spritesheet_34
+    21300060: bgElements_spritesheet_35
+    21300062: bgElements_spritesheet_36
+    21300064: bgElements_spritesheet_37
+    21300066: bgElements_spritesheet_40
+    21300068: bgElements_spritesheet_41
+    21300070: bgElements_spritesheet_43
+    21300072: bgElements_spritesheet_44
+    21300074: bgElements_spritesheet_45
+    21300076: bgElements_spritesheet_46
+    21300078: bgElements_spritesheet_47
+    21300080: bgElements_spritesheet_48
+    21300082: bgElements_spritesheet_49
+    21300084: bgElements_spritesheet_7
+    21300086: bgElements_spritesheet_17
+    21300088: bgElements_spritesheet_1
+    21300090: bgElements_spritesheet_3
+    21300092: bgElements_spritesheet_18
+    21300094: bgElements_spritesheet_38
+    21300096: bgElements_spritesheet_39
+    21300098: bgElements_spritesheet_42
+    21300100: bgElements_spritesheet_50
+    21300102: bgElements_spritesheet_51
+    21300104: bgElements_spritesheet_52
+    21300106: bgElements_spritesheet_53
+    21300108: bgElements_spritesheet_54
+    21300110: bgElements_spritesheet_55
+    21300112: bgElements_spritesheet_56
+    21300114: bgElements_spritesheet_57
+    21300116: bgElements_spritesheet_58
+    21300118: bgElements_spritesheet_59
+    21300120: bgElements_spritesheet_60
+    21300122: bgElements_spritesheet_61
+    21300124: bgElements_spritesheet_62
+    21300126: bgElements_spritesheet_63
+    21300128: bgElements_spritesheet_64
+    21300130: bgElements_spritesheet_65
+    21300132: bgElements_spritesheet_66
+    21300134: bgElements_spritesheet_67
+    21300136: bgElements_spritesheet_68
+    21300138: bgElements_spritesheet_69
+    21300140: bgElements_spritesheet_70
+    21300142: bgElements_spritesheet_71
+    21300144: bgElements_spritesheet_72
+    21300146: bgElements_spritesheet_73
+    21300148: bgElements_spritesheet_74
+    21300150: bgElements_spritesheet_75
+    21300152: bgElements_spritesheet_76
+    21300154: bgElements_spritesheet_77
+    21300156: bgElements_spritesheet_78
+    21300158: bgElements_spritesheet_79
+    21300160: bgElements_spritesheet_80
+    21300162: bgElements_spritesheet_81
+    21300164: bgElements_spritesheet_82
+    21300166: bgElements_spritesheet_83
+    21300168: bgElements_spritesheet_84
+    21300170: bgElements_spritesheet_85
+    21300172: bgElements_spritesheet_86
+    21300174: bgElements_spritesheet_87
+    21300176: bgElements_spritesheet_88
+    21300178: bgElements_spritesheet_89
+    21300180: bgElements_spritesheet_90
+    21300182: bgElements_spritesheet_91
+    21300184: bgElements_spritesheet_92
+    21300186: bgElements_spritesheet_93
+    21300188: bgElements_spritesheet_94
+    21300190: bgElements_spritesheet_95
+    21300192: bgElements_spritesheet_96
+    21300194: bgElements_spritesheet_97
+    21300196: bgElements_spritesheet_98
+    21300198: bgElements_spritesheet_99
+    21300200: bgElements_spritesheet_100
+    21300202: bgElements_spritesheet_101
+    21300204: bgElements_spritesheet_102
+    21300206: bgElements_spritesheet_103
+    21300208: bgElements_spritesheet_104
+    21300210: bgElements_spritesheet_105
+    21300212: bgElements_spritesheet_106
+    21300214: bgElements_spritesheet_107
+    21300216: bgElements_spritesheet_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bgElements_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1795
+        width: 143
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1787
+        width: 99
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1708
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1641
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1656
+        width: 55
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1457
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1457
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1044
+        width: 234
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 857
+        width: 106
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 857
+        width: 106
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1010
+        width: 61
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 295
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 917
+        width: 230
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 876
+        width: 215
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 747
+        width: 238
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 754
+        width: 215
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 691
+        width: 206
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 734
+        width: 189
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 613
+        width: 108
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 614
+        width: 106
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 625
+        width: 59
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 626
+        width: 236
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 634
+        width: 212
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 560
+        width: 192
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 493
+        width: 225
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 475
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 452
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 452
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 327
+        width: 129
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 266
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 361
+        width: 223
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 361
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 333
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 192
+        width: 218
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 240
+        width: 209
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 94
+        width: 130
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 51
+        width: 228
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 71
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 23
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 30
+        width: 70
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 21
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 723
+        width: 61
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 287
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1843
+        width: 1000
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1873
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1817
+        width: 130
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1443
+        width: 143
+        height: 254
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 115
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1673
+        width: 1000
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1543
+        width: 1000
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1413
+        width: 1000
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1165
+        width: 1001
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1697
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 295
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1046
+        width: 191
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 979
+        width: 206
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 889
+        width: 130
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 176
+        width: 245
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 267
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 248
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 14
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 21
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 40
+        width: 242
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 450
+        width: 204
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 360
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1443
+        width: 143
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1289
+        width: 177
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1297
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1171
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1040
+        width: 179
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 862
+        width: 190
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 455
+        width: 50
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 323
+        width: 199
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 5
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 112
+        width: 200
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 15
+        width: 145
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 125
+        width: 136
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 30
+        width: 53
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 176
+        width: 97
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 208
+        width: 68
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 116
+        width: 61
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 363
+        width: 60
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 510
+        width: 55
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 436
+        width: 103
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 656
+        width: 68
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 886
+        width: 98
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 421
+        width: 143
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 675
+        width: 145
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 558
+        width: 135
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 853
+        width: 136
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 981
+        width: 146
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1803
+        width: 60
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1803
+        width: 60
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1558
+        width: 68
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1148
+        width: 136
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1101
+        width: 128
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1148
+        width: 98
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1271
+        width: 62
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1271
+        width: 59
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1334
+        width: 130
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1410
+        width: 103
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1563
+        width: 130
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1585
+        width: 130
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgElements_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1818
+        width: 131
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
