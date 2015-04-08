@@ -24,12 +24,15 @@ public class PinkWorm : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Mathf.Abs (rigidBody.velocity.x) < 3) {
-			if (rigidBody.velocity.x < 0.0f) {
+			if (rigidBody.velocity.x < 0.001f) {
 				rigidBody.AddForce (new Vector2 (-4.0f, 0.0f));
-			} else {
+			} else{
 				rigidBody.AddForce (new Vector2 (4.0f, 0.0f));
 			}
 		}
+
+		 if (rigidBody.velocity.x == 0.0f && rigidBody.velocity.y == 0.0f)
+
 
 		animator.SetFloat ("Speed", Mathf.Abs (rigidBody.velocity.x));
 	}
