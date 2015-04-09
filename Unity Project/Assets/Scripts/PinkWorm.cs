@@ -7,7 +7,6 @@ public class PinkWorm : MonoBehaviour {
 	Animator animator;
 
 	void OnTriggerEnter2D(Collider2D other) {
-		
 		if (other.tag.ToString() == "Player") {
 			this.gameObject.SetActive(false);
 		}
@@ -31,9 +30,8 @@ public class PinkWorm : MonoBehaviour {
 			}
 		}
 
-		 if (rigidBody.velocity.x == 0.0f && rigidBody.velocity.y == 0.0f)
-
-
-		animator.SetFloat ("Speed", Mathf.Abs (rigidBody.velocity.x));
+		if (rigidBody.velocity.x == 0.0f && rigidBody.velocity.y == 0.0f) {
+			animator.SetFloat ("Speed", Mathf.Abs (rigidBody.velocity.x));
+		}
 	}
 }

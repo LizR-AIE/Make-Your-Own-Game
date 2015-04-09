@@ -5,9 +5,13 @@ public class Player : MonoBehaviour
 {
 	Rigidbody2D rigidBody;
 	Animator animator;
+
 	float movementAmount;
 	[SerializeField] float movementSpeed = 1;
+
 	float jumpAmount;
+	[SerializeField] float jumpSpeed = 1;
+
 	float groundRadius = 0.1f;
 	bool isGrounded = false;
 	[SerializeField] LayerMask whatIsGround;
@@ -54,10 +58,8 @@ public class Player : MonoBehaviour
 			rigidBody.AddForce (new Vector2 (movementAmount * movementSpeed, 0.0f));
 		}
 
-
-
 		if(jumpAmount != 0.0f && isGrounded == true){
-			rigidBody.AddForce (new Vector2 (0.0f, 3.0f), ForceMode2D.Impulse);
+			rigidBody.AddForce (new Vector2 (0.0f, jumpSpeed), ForceMode2D.Impulse);
 		}
 	}
 }
